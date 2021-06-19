@@ -1,0 +1,23 @@
+{
+  "name": "first-electron-app",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengjiqiang/first-electron-app.git"
+  },
+  "author": "Ethan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengjiqiang/first-electron-app/issues"
+  },
+  "homepage": "https://github.com/fengjiqiang/first-electron-app#readme",
+  "devDependencies": {
+    "electron": "^13.1.2"
+  }
+}
